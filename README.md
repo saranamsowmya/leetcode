@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0066-plus-one) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
