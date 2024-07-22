@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0283-move-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
