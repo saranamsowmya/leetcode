@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
