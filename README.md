@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
