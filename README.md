@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
