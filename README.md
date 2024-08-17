@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0062-unique-paths) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Combinatorics
 |  |
 | ------- |
