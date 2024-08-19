@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Binary Search
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0062-unique-paths) |
+| [0650-2-keys-keyboard](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Combinatorics
