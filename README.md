@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1240-stone-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0062-unique-paths) |
 | [0650-2-keys-keyboard](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Combinatorics
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1240-stone-game-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1240-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
