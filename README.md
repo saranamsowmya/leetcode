@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Matrix
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0664-strange-printer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
