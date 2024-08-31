@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Math
 |  |
 | ------- |
