@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -264,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
