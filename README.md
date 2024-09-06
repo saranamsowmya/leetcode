@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Saranam-Sowmya-2004/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
